@@ -20,6 +20,14 @@
   "exclude": [
     "coverage",
     "node_modules",
-    "!node_modules/@types"
+    "!node_modules/@types",
+    "packages/angular-imask",
+    "packages/imask/test/",
+    "packages/react-native-imask",
+    "packages/react-imask/",
+    "packages/solid-imask/",
+    "packages/svelte-imask/",
+    "packages/vue-imask/",
+    "**/*.js"
   ]
 }
